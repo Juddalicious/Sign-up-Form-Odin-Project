@@ -12,7 +12,8 @@ html {
 }
 
 :focus {
-    border: solid #5078d8 2px;
+    outline: solid #5078d8 2px;
+    box-shadow: 0px 0px 10px #5078d8;
     border-radius: 5px;
 }
 
